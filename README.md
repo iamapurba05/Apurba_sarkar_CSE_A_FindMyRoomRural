@@ -1,3 +1,19 @@
+## team leader 
+# Name : Apurba sarkar 
+# Roll no. : 2401010280 
+
+( We were total 3 members in our group , two of them left the college ) 
+
+
+## Video presentation 
+link : https://drive.google.com/file/d/1-WDd6RFkrtE8b3j9-6ekZELMqFg0jsXD/view?usp=drivesdk
+
+
+## FInal report of this project 
+Link : https://docs.google.com/document/d/1-pa7AdaXixAeUxDWdpb6V3UeDthAQqlu/edit?usp=drivesdk&ouid=116784677385607400997&rtpof=true&sd=true
+
+
+
 ## 🏡 Find My Room Rural
 
 **Find My Room Rural** is a web-based platform designed to connect users in rural areas with available rental rooms. The application simplifies the room-finding process through a user-friendly interface for both clients and administrators, ensuring seamless management and discovery of rural accommodations.
