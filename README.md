@@ -1,6 +1,6 @@
-## team leader 
-# Name : Apurba sarkar 
-# Roll no. : 2401010280 
+# Team leader 
+## Name : Apurba sarkar 
+## Roll no. : 2401010280 
 
 ( We were total 3 members in our group , two of them left the college ) 
 
