@@ -4,19 +4,48 @@
 ## Roll no. : 2401010280 
 ## Institution: KR Mangalam University, BTech CSE Core, Section A
 
-
 ## Video presentation 
 link : https://drive.google.com/file/d/1-WDd6RFkrtE8b3j9-6ekZELMqFg0jsXD/view?usp=drivesdk
-
 
 ## FInal report of this project 
 Link : https://docs.google.com/document/d/1-pa7AdaXixAeUxDWdpb6V3UeDthAQqlu/edit?usp=drivesdk&ouid=116784677385607400997&rtpof=true&sd=true
 
-
+## PPT of this project 
+Link : https://docs.google.com/presentation/d/10gtqGWtU31-CmxkthX_VdWeFQRLaHaLT/edit?usp=drivesdk&ouid=116784677385607400997&rtpof=true&sd=true
 
 ## 🏡 Find My Room Rural
-
 **Find My Room Rural** is a web-based platform designed to connect users in rural areas with available rental rooms. The application simplifies the room-finding process through a user-friendly interface for both clients and administrators, ensuring seamless management and discovery of rural accommodations.
+
+
+# 🔑 Key Features of Find My Room Rural
+🎯 Location-Based Search: Quickly find nearby PGs and rental rooms using location services and map integration with route navigation.
+
+✅ Verified Listings: All property owners are verified using Aadhar/PAN for trustworthy and authentic listings.
+
+📸 Media Upload: Owners can upload photos and videos of rooms, enabling virtual room tours for users.
+
+⭐ Ratings & Reviews: Users can rate and review rooms and landlords, ensuring transparency and informed decision-making.
+
+📞 Direct Owner Contact: Users can contact landlords directly through the platform, enabling smooth negotiations.
+
+📍 Availability Status: Real-time room availability is shown to avoid confusion and wasted efforts.
+
+💬 User Feedback System: Encourages users to leave feedback to improve service quality.
+
+📈 Scalable Model: Designed for easy expansion to other cities and rural areas.
+
+
+# 🌍 Impact in the Market
+Bridging the Urban-Rural Gap: Find My Room Rural addresses the underserved rural and semi-urban rental market, which is often overlooked by mainstream platforms.
+
+Student & Migrant Worker Empowerment: Helps students, job seekers, and workers easily find affordable accommodation near educational institutes and job hubs.
+
+Trust & Transparency: By verifying property owners and enabling reviews, the platform builds trust in a market often plagued by scams and misinformation.
+
+Digital Inclusion: Promotes the use of digital tools for property rentals in rural areas, encouraging wider tech adoption and financial literacy.
+
+Time & Cost Efficiency: Reduces the time and money spent on physically visiting properties by offering virtual tours and availability status.
+
 
 ## 🧑‍💼 Client Panel
 
@@ -83,6 +112,11 @@ To maintain platform quality, the admin reviews content such as room description
 
 5. Data Analytics (Upcoming Feature)
 Admins can view metrics like total listings, bookings made, and active users via a dashboard (optional future feature). This helps in understanding platform performance and user engagement.
+
+# ✅ Conclusion
+Find My Room Rural is a purpose-driven platform that simplifies the rental experience for students and workers in rural and semi-urban areas. By offering verified listings, virtual tours, location-based search, emergency support, and a digital agreement system, it builds trust, saves time, and enhances transparency in the accommodation search process.
+
+This project not only solves a pressing real-world problem but also introduces a scalable model that can be expanded to multiple regions across India. With its blend of security, convenience, and digital innovation, Find My Room Rural has the potential to transform how rural rental housing is accessed and managed.
 
 
 
