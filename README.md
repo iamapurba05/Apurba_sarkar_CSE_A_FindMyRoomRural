@@ -1,5 +1,5 @@
 # Team detail
-# Team leader
+## Team leader
 ## Name : Apurba sarkar 
 ## Roll no. : 2401010280 
 ## Institution: KR Mangalam University, BTech CSE Core, Section A
