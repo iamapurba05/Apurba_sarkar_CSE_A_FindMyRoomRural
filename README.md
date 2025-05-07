@@ -7,7 +7,7 @@
 ## Video presentation 
 link : https://drive.google.com/file/d/1-WDd6RFkrtE8b3j9-6ekZELMqFg0jsXD/view?usp=drivesdk
 
-## FInal report of this project 
+## Final report on this project 
 Link : https://docs.google.com/document/d/1-pa7AdaXixAeUxDWdpb6V3UeDthAQqlu/edit?usp=drivesdk&ouid=116784677385607400997&rtpof=true&sd=true
 
 ## PPT of this project 
