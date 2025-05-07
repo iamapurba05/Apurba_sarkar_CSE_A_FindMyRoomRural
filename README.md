@@ -1,8 +1,8 @@
-# Team leader 
+# Team detail
+# Team leader
 ## Name : Apurba sarkar 
 ## Roll no. : 2401010280 
-
-( We were total 3 members in our group , two of them left the college ) 
+## Institution: KR Mangalam University, BTech CSE Core, Section A
 
 
 ## Video presentation 
